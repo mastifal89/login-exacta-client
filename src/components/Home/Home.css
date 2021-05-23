@@ -1,0 +1,15 @@
+.gridCard {
+  margin-top: 10px !important;
+}
+
+.userImage {
+  width: 200px;
+}
+
+.headerGrid {
+  vertical-align: "center" !important;
+}
+
+.name {
+  font-size: 40px;
+}
